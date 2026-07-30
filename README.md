@@ -1,4 +1,4 @@
-# 📊 Data Analyst Portfolio
+# 📊 Isha Vade - Data Analyst Portfolio
 
 A modern, responsive portfolio website showcasing my data analytics projects, dashboards, technical skills, and professional journey. Built using **React**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**, this portfolio highlights real-world analytics projects involving **Python**, **SQL**, **Power BI**, **Tableau**, and **Excel**.
 
