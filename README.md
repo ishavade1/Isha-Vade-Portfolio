@@ -1,4 +1,4 @@
-# Isha Vade — Data Analyst Portfolio (React + Vite)
+# Isha Vade — Data Analyst Portfolio 
 
 A premium portfolio site inspired by Linear / Raycast / Vercel / Notion, built as a real
 React app (no CDN dependencies — fonts, icons, and charts are all bundled via npm).
